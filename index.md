@@ -1,11 +1,16 @@
 ---
 layout: default
 ---
+## Things about me!
 
-My passion really is about computers, with experience in computer engineering. Below are some of the projects I’ve developed, showcasing my skills and interests in various IT domains. Feel free to explore!
+I am a graduate of Computer Engineering, driven by a deep passion for all things tech! From an early age, I've been fascinated by the inner workings of computers and how they shape our world. My journey has led me to explore various domains within IT, and I thrive on the challenge of turning complex problems into elegant solutions.
+
+During my college internship, I had the incredible opportunity to delve into the world of computer networking. This experience not only deepened my understanding of network architecture and protocols but also ignited my enthusiasm learning more and explore the vast area of networking. Working alongside industry professionals, I gained hands-on experience that has shaped my approach to problem-solving in the tech landscape.
+
+Below are some of the exciting projects I’ve developed, each reflecting my skills, creativity, and commitment to innovation. I invite you to explore these projects and discover my journey in the ever-evolving tech landscape!
 
 
-## Projects
+## Some projects that I have done.
 
 ### 1. **HevAbi Coin** | ERC20 Token Web3 Website
 A web-based application for minting, staking, and withdrawing ERC-20 tokens. This project leverages **smart contracts** and is built using **HTML**, **Tailwind CSS**, and **Solidity**.  
@@ -21,7 +26,7 @@ A web-based application for minting, staking, and withdrawing ERC-20 tokens. Thi
 **Technologies Used**: [List technologies here]  
 [View Repository](link-to-repo)
 
-## Skills
+## My skills
 - **Languages**: Python, Linux
 - **Web Development**: HTML, CSS, Tailwind, Flask
 - **Tools**: Git, Automation Studio, Microsoft Azure, VirtualBox
