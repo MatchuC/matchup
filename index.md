@@ -19,8 +19,9 @@ A web-based application for minting, staking, and withdrawing ERC-20 tokens. Thi
 - **Cybersecurity**: Secure coding practices, network security, cryptography
 
 ## Contact
-- **Email**: [charlesgagatam@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJqSvjSzSTbKhfcnRHVCjrlSlClDpMdFsknKHGTcRSPcqJzcFjbRgcHJvgkZpJKXBmxJPVB)
-- **LinkedIn**: [linkedin.com/in/charles-matthew-atilano/](https://linkedin.com/in/charles-matthew-atilano/)
-- **GitHub**: [github.com/Matchuuuuuuuuuu](https://github.com/Matchuuuuuuuuuu) 
+- **Email**: <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJqSvjSzSTbKhfcnRHVCjrlSlClDpMdFsknKHGTcRSPcqJzcFjbRgcHJvgkZpJKXBmxJPVB" target="_blank">charlesgagatam@gmail.com</a>
+- **LinkedIn**: <a href="https://linkedin.com/in/charles-matthew-atilano/" target="_blank">linkedin.com/in/charles-matthew-atilano</a>
+- **GitHub**: <a href="https://github.com/Matchuuuuuuuuuu" target="_blank">github.com/Matchuuuuuuuuuu</a>
+
 
 
