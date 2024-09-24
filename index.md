@@ -14,8 +14,9 @@ Below are some of the exciting projects I’ve developed, each reflecting my ski
 
 ## Some Projects That I Have Done
 
-### 1. **HevAbi Coin** | ERC20 Token Web3 Website
-A web-based application for minting, staking, and withdrawing ERC-20 tokens. This project leverages **smart contracts** and is built using **HTML**, **Tailwind CSS**, and **Solidity**.  
+### 1. **[HevAbi Coin](hevabi.md)** | ERC20 Token Web3 Website
+A web-based application for minting, staking, and withdrawing ERC-20 tokens.  
+**Technologies Used**: HTML, Tailwind CSS, Solidity  
 [View Repository](https://github.com/CharlesMatthewAtilano/HevAbi)
 
 ### 2. **[Project Name]** | [Project Description]
