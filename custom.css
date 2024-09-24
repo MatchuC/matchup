@@ -1,0 +1,8 @@
+/* Change all link colors to green */
+a {
+  color: green;
+}
+
+a:hover {
+  color: darkgreen;
+}
