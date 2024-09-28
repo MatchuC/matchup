@@ -19,15 +19,14 @@ A web-based application for minting, staking, and withdrawing ERC-20 tokens.
 **Technologies Used**: HTML, Tailwind CSS, Solidity  
 [View Repository](https://github.com/CharlesMatthewAtilano/HevAbi)
 
-### 2. **[Project Name]** | [Project Description]
-A brief description of this project, including technologies used and its significance.  
-**Technologies Used**: [List technologies here]  
-[View Repository](link-to-repo)
+### 2. **[[Mini SOC](socAzure.md)**
+Implementing an SOC in Azure.  
+**Technologies Used**: Microsoft Azure, Logs, Analytics, VirtualBox  
 
-### 3. **[Project Name]** | [Project Description]
-A brief description of this project, including technologies used and its significance.  
-**Technologies Used**: [List technologies here]  
-[View Repository](link-to-repo)
+### 3. **[Vulnerability Management](vulMan.md)**
+Scanning for vulnerabilites for devices on a network.
+**Technologies Used**: Qualsys VM, Nessus Essentials, VMWare
+
 
 ---
 
@@ -35,8 +34,8 @@ A brief description of this project, including technologies used and its signifi
 
 - **Languages**: Python, Linux
 - **Web Development**: HTML, CSS, Tailwind, Flask
-- **Tools**: Git, Automation Studio, Microsoft Azure, VirtualBox
-- **Cybersecurity**: Network Security, Risk Management, Intrusion Detection and Response
+- **Tools**: Git, Automation Studio, Microsoft Azure, Virtual Machine
+- **Cybersecurity**: Network Security, Risk Management, Intrusion Detection and Response, Vulnerability Managment
 - **Artificial Intelligence**: Machine Learning, Prompt Engineering 
 
 ---
@@ -45,6 +44,6 @@ A brief description of this project, including technologies used and its signifi
 
 - **Email**: [charlesgagatam@gmail.com](mailto:charlesgagatam@gmail.com) 
 - **LinkedIn**: [linkedin.com/in/charles-matthew-atilano](https://linkedin.com/in/charles-matthew-atilano)
-- **GitHub**: [github.com/Matchuuuuuuuuuu](https://github.com/Matchuuuuuuuuuu)
+- **GitHub**: [github.com/MatchuC](https://github.com/MatchuC)
 
 ---
