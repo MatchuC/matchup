@@ -19,9 +19,9 @@ A web-based application for minting, staking, and withdrawing ERC-20 tokens.
 **Technologies Used**: HTML, Tailwind CSS, Solidity  
 [View Repository](https://github.com/CharlesMatthewAtilano/HevAbi)
 
-### 2. **[[Mini SOC](socAzure.md)**
+### 2. **[Mini SOC](socAzure.md)**
 Implementing an SOC in Azure.  
-**Technologies Used**: Microsoft Azure, Logs, Analytics, VirtualBox  
+**Technologies Used**: Microsoft Sentinel, Log Analytics, VirtualBox  
 
 ### 3. **[Vulnerability Management](vulMan.md)**
 Scanning for vulnerabilites for devices on a network.
@@ -35,7 +35,7 @@ Scanning for vulnerabilites for devices on a network.
 - **Languages**: Python, Linux
 - **Web Development**: HTML, CSS, Tailwind, Flask
 - **Tools**: Git, Automation Studio, Microsoft Azure, Virtual Machine
-- **Cybersecurity**: Network Security, Risk Management, Intrusion Detection and Response, Vulnerability Managment
+- **Cybersecurity**: Network Security, Risk Management, Intrusion Detection and Response, SIEM, Vulnerability Managment
 - **Artificial Intelligence**: Machine Learning, Prompt Engineering 
 
 ---
