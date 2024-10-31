@@ -19,13 +19,14 @@ A web-based application for minting, staking, and withdrawing ERC-20 tokens.
 **Technologies Used**: HTML, Tailwind CSS, Solidity  
 [View Repository](https://github.com/CharlesMatthewAtilano/HevAbi)
 
-### 2. **[Mini SOC](socAzure.md)**
-Implementing an SOC in Azure.  
-**Technologies Used**: Microsoft Sentinel, Log Analytics, VirtualBox  
+### 2. **[Thesis Project | From Stress to Energy: An Energy-Generating Punching Machine](thesis.md)**
+A machine that converts mechanical energy from punches into electrical energy, providing real-time feedback and data visualization to promote stress relief and track user performance.
+**Technologies Used**: Piezoelectric Sensors, AC to DC Conversion, Arduino Uno, Raspberry Pi 4, Python, PyQt5 
 
 ### 3. **[Vulnerability Management](vulMan.md)**
 Scanning for vulnerabilites for devices on a network.
 **Technologies Used**: Qualsys VM, Nessus Essentials, VMWare
+
 
 
 ---
