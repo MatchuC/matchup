@@ -1,5 +1,5 @@
 # From Stress to Power
-[Project Documentation](https://drive.google.com/file/d/1iMPNBOdpfOEvFFSqey7Y29en5z9UktFZ/view?usp=drive_link)
+[Thesis File](https://drive.google.com/file/d/1iMPNBOdpfOEvFFSqey7Y29en5z9UktFZ/view?usp=drive_link)
 
 
 ## Project Overview

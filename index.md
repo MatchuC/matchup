@@ -25,7 +25,7 @@ A machine that converts mechanical energy from punches into electrical energy, p
 
 ### 3. **[Vulnerability Management](vulMan.md)**
 Scanning for vulnerabilites for devices on a network.
-**Technologies Used**: Qualsys VM, Nessus Essentials, VMWare
+**Technologies Used**: Qualsys Vulnerability Management, Nessus Essentials, VMware
 
 
 
@@ -33,17 +33,18 @@ Scanning for vulnerabilites for devices on a network.
 
 ## My Skills
 
-- **Languages**: Python, Linux
-- **Web Development**: HTML, CSS, Tailwind, Flask
-- **Tools**: Git, Automation Studio, Microsoft Azure, Virtual Machine
-- **Cybersecurity**: Network Security, Risk Management, Intrusion Detection and Response, SIEM, Vulnerability Managment
-- **Artificial Intelligence**: Machine Learning, Prompt Engineering 
+- **Soft Skills**: Active Listening, Critical Thinking, Problem Solving, Attention to Detail, Documentation 
+- **Languages**: Python, C, C++, C#, HTML, CSS 
+- **Network**: Network Troubleshooting, Network Cabling, Network Routing and Switching, SolarWinds
+- **Cybersecurity**: SIEMs, Incident Management, Vulnerability Management, Qualys Vulnerability Management, Nessus Essentials, Fortinet
+- **Machine Learning**: Prompt Engineering, Machine Learning and Perception, Data Set Training
+- **Additional Skills**: Microsoft 365, Virtual Machines, Blockchain Smart Contracts, Risk Assessment and Management, Internet of Things, PLC Programming, Embedded Systems 
 
 ---
 
 ## Reach Me Here!
 
-- **Email**: [charlesgagatam@gmail.com](mailto:charlesgagatam@gmail.com) 
+- **Email**: [charlesgagatam@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=charlesgagatam@gmail.com) 
 - **LinkedIn**: [linkedin.com/in/charles-matthew-atilano](https://linkedin.com/in/charles-matthew-atilano)
 - **GitHub**: [github.com/MatchuC](https://github.com/MatchuC)
 
