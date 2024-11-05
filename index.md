@@ -44,8 +44,9 @@ Scanning for vulnerabilites for devices on a network.
 
 ## Reach Me Here!
 
-- **Email**: [charlesgagatam@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=charlesgagatam@gmail.com) 
-- **LinkedIn**: [linkedin.com/in/charles-matthew-atilano](https://linkedin.com/in/charles-matthew-atilano)
-- **GitHub**: [github.com/MatchuC](https://github.com/MatchuC)
-
+<p>
+    <strong>Email</strong>: <a href="https://mail.google.com/mail/?view=cm&fs=1&to=charlesgagatam@gmail.com" target="_blank">charlesgagatam@gmail.com</a><br>
+    <strong>LinkedIn</strong>: <a href="https://linkedin.com/in/charles-matthew-atilano" target="_blank">linkedin.com/in/charles-matthew-atilano</a><br>
+    <strong>GitHub</strong>: <a href="https://github.com/MatchuC" target="_blank">github.com/MatchuC</a>
+</p>
 ---
